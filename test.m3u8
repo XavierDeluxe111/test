@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,RW
+#EXTINF:-1,RW 06/04/2026
 https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/03/11072/874p4mfu2o3m_h/index-v1-a1.m3u8?t=VwIq10xH7e06HC701aYB78Mh-3pxcNzR9TsSPbSwjBA&s=1776004800&e=10800&f=55360375&srv=1055&asn=199536&sp=4000&p=0
+#EXTINF:-1,NXT 07/04/2026
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11076/v7x18il4izkz_h/index-v1-a1.m3u8?t=2BHW--d3XpNmDxUwoylHCE8VclT67ESDXFSpxXTGCzE&s=1776005168&e=10800&f=55380584&srv=1055&asn=199536&sp=4000&p=0
